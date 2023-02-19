@@ -1,0 +1,23 @@
+{
+	"user": "dulajdulajvinujavinuja@gmail.com",
+	"password": "dulajvinuja12345",
+
+	"firstName": "dulaj",
+	"lastName": "vb",
+	"email": "dulajdulajvinujavinuja@gmail.com",
+	"phoneNumber": "0773260031",
+	"address1": "409/01/thalawa",
+	"address2": "anuradhapura",
+	"city": "thalawa",
+	"zipCode": "50230",
+	"state": "anuradhapura",
+
+	"cardName": "card title w/ number at end",
+	"limit": 100,
+	"limit_description": "limit applied to each card",
+
+	"amount": 2,
+	"amount_description": "amount of profiles to generate",
+
+	"bot": "dashe"
+}
